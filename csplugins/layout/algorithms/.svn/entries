@@ -1,0 +1,64 @@
+8
+
+dir
+11395
+svn+ssh://gamay.ucsd.edu/cellar/common/svn/coreplugins/trunk/AutomaticLayout/src/csplugins/layout/algorithms
+svn+ssh://gamay.ucsd.edu/cellar/common/svn
+
+
+
+2007-07-13T21:03:54.690729Z
+10940
+scooter
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ecc0d97-ab19-0410-9704-bfe1a75892f5
+
+GroupAttributesLayout.java
+file
+
+
+
+
+2007-07-13T21:03:54.690000Z
+47f8e66eaca6ba62bfd4d2339cbb8b32
+2007-07-13T21:03:54.690729Z
+10940
+scooter
+
+StackedNodeLayout.java
+file
+
+
+
+
+2007-02-13T20:13:13.254000Z
+6faa3df4aa53802353c88fc02e872cba
+2007-02-13T20:13:13.254980Z
+9566
+mes
+
+bioLayout
+dir
+
+force
+dir
+
+graphPartition
+dir
+
+hierarchicalLayout
+dir
+
